@@ -1,0 +1,6 @@
+.list-item {
+    background-color: aqua;
+    display: "flex";
+    flex-direction: "row";
+    justify-content: "space-between";
+}
